@@ -1,0 +1,136 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of tinystr.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are source\tinystr.cpp, TinyXML\tinystr.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of tinyxml.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are source\tinyxml.cpp, TinyXML\tinyxml.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of tinyxmlerror.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are source\tinyxmlerror.cpp, TinyXML\tinyxmlerror.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of tinyxmlparser.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are source\tinyxmlparser.cpp, TinyXML\tinyxmlparser.cpp.
+  main.cpp
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\level.h(54): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\level.h(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\level.h(123): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\level.h(156): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\level.h(203): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\level.h(221): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\level.h(222): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\level.h(223): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\level.h(224): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\level.h(260): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\level.h(270): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\level.h(291): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\level.h(292): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\entity.h(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\entity.h(38): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\player.h(57): warning C4551: function call missing argument list
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\player.h(63): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\player.h(64): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\player.h(70): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\player.h(71): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\player.h(77): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\player.h(78): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\player.h(84): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\player.h(85): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\player.h(92): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\player.h(104): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\player.h(132): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\player.h(137): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\player.h(143): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\player.h(148): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\player.h(193): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\enemyunder.h(15): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\enemyunder.h(20): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\enemyunder.h(25): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\enemyunder.h(30): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\enemyunder.h(35): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\enemyunder.h(40): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\enemyunder.h(45): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\enemyunder.h(50): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\enemyunder.h(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\enemyunder.h(63): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\enemyunder.h(64): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\coin.h(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\coin.h(50): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\coin.h(51): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\boss.h(17): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\boss.h(23): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\boss.h(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\boss.h(36): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\boss.h(37): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(177): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(180): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(183): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(186): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(189): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(192): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(195): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(198): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(201): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(204): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(207): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(210): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(213): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(216): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(219): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(222): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(232): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(276): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(285): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(295): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(306): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(323): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(333): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(343): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(352): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(362): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(403): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(409): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(418): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(424): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(433): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(439): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(448): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(454): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(463): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(469): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(478): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(484): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(493): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(499): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(508): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(514): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(523): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dmitriy\desktop\щебетовский дмитрий\bounce travel source (shebetovsky d.g.)\test1\source\game.h(529): warning C4305: '=': truncation from 'double' to 'float'
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+Release\tinystr.obj : warning LNK4042: object specified more than once; extras ignored
+Release\tinyxml.obj : warning LNK4042: object specified more than once; extras ignored
+Release\tinyxmlerror.obj : warning LNK4042: object specified more than once; extras ignored
+Release\tinyxmlparser.obj : warning LNK4042: object specified more than once; extras ignored
+  Generating code
+  All 928 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  test1.vcxproj -> C:\Users\Dmitriy\Desktop\Щебетовский Дмитрий\Bounce travel source (Shebetovsky D.G.)\Release\test1.exe
